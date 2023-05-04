@@ -20,6 +20,16 @@ public class ClienteModel {
     @Column(nullable = false)
     private String email;
 
+    public ClienteModel(){
+
+    }
+    public ClienteModel(Long id_cliente, String nome, String telefone, String email) {
+        this.id_cliente = id_cliente;
+        this.nome = nome;
+        this.telefone = telefone;
+        this.email = email;
+    }
+
     public ClientePostRequest toClientePostRequest() {
         ClientePostRequest request = new ClientePostRequest();
         request.setNome(this.nome);
@@ -68,6 +78,9 @@ public class ClienteModel {
     public void setEmail(String email) {
         this.email = email;
     }
+
+
+
 }
 
 
